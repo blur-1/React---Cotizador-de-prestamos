@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React---Cotizador-de-prestamos/static/css/main.36f57cf5.css",
+    "main.js": "/React---Cotizador-de-prestamos/static/js/main.769e1939.js",
+    "static/js/787.6cf8e1bf.chunk.js": "/React---Cotizador-de-prestamos/static/js/787.6cf8e1bf.chunk.js",
+    "index.html": "/React---Cotizador-de-prestamos/index.html",
+    "main.36f57cf5.css.map": "/React---Cotizador-de-prestamos/static/css/main.36f57cf5.css.map",
+    "main.769e1939.js.map": "/React---Cotizador-de-prestamos/static/js/main.769e1939.js.map",
+    "787.6cf8e1bf.chunk.js.map": "/React---Cotizador-de-prestamos/static/js/787.6cf8e1bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36f57cf5.css",
+    "static/js/main.769e1939.js"
+  ]
+}
